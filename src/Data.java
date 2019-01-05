@@ -46,4 +46,3 @@ public class Data {
         this.location = location;
     }
 }
-//asdasdasda
